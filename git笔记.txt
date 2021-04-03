@@ -1,6 +1,6 @@
 git命令中文乱码  
  1 右键设置编码格式为utf—8
-  2 还是不行 cmd 命令 git config --global core.quotepath false
+  2 还是不行 cmd 命令 git config --global core.quotepath false 来改变git的配置默认转义
 
 git拉项目到本地  
  
