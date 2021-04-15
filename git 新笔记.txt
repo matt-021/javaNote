@@ -1,0 +1,36 @@
+git命令中文乱码  
+ 1 右键设置编码格式为utf—8
+  2 还是不行 cmd 命令 git config --global core.quotepath false 来改变git的配置默认转义
+
+git拉项目到本地  
+ 
+   直接clone git   clone是一个组合，clone会包含init，remote，fetch，checkout这些操作
+   故：
+	git clone -b 分支名字 http地址 设置别名（设置别名选填）
+	不加-b 分支名字 则默认clone主分支
+	
+提项目
+    1查看当前分支
+    	git branch -a
+    2如果自己不在所在的分支
+      	git  checkout  想要操作的分支名
+   3git提交代码五步走
+   	 添加文件 git add
+   	 提交本地 git commit -m 提交信息
+   	 更新代码 git pull   
+   	 处理冲突
+     推送代码 git push -u origin 想要操作的分支	
+	 
+分支
+
+查看分支：git branch
+
+创建分支：git branch <name>
+
+切换分支：git checkout <name>或者git switch <name>
+
+
+
+git fetch是将远程主机的最新内容拉到本地，用户在检查了以后决定是否合并到工作本机分支中。
+
+而git pull 则是将远程主机的最新内容拉下来后直接合并，即：git pull = git fetch + git merge，这样可能会产生冲突，需要手动解决。
