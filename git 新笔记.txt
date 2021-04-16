@@ -33,4 +33,15 @@ git拉项目到本地
 
 git fetch是将远程主机的最新内容拉到本地，用户在检查了以后决定是否合并到工作本机分支中。
 
-而git pull 则是将远程主机的最新内容拉下来后直接合并，即：git pull = git fetch + git merge，这样可能会产生冲突，需要手动解决。
+而git pull 则是将远程主机的最新内容拉下来后直接合并，即：git pull = git fetch + git merge，这样
+可能会产生冲突，需要手动解决。
+
+
+
+1.没有git add时，用git checkout -- file
+
+2.已经git add时，先git reset HEAD <file>回退到1.，再按1.操作
+
+3.已经git commit时，用git reset回退版本
+
+4.推送到远程库，GG?
