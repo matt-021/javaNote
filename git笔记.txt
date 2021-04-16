@@ -19,7 +19,8 @@ git拉项目到本地
    	 提交本地 git commit -m 提交信息
    	 更新代码 git pull   
    	 处理冲突
-    	推送代码 git push -u origin 想要操作的分支
+    	推送代码 git push -u origin 想要操作的分支  第一次需这么写  让本地跟远程分支关联起来  以后都可以直接git push 简写就可以
+
 
 
 初始化一个Git仓库，使用git init命令。
