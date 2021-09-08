@@ -1,0 +1,25 @@
+下午好 亲爱的面试官
+	我叫林志育，本科毕业，来自于福建漳州 本科毕业之后就职于上海安硕信息有限公司 
+工作经验
+    有一年的开发工作经验  参与公司的两个供应链相关的项目，能快速的适应所在环境，并高效完成开发，后续都负责主要的开发任务，这一年来，
+	不管技术上还是业务知识都是比较快的提升，通过下班之后闲余时间自学相关主流技术 使用目前流行的SpringBoot+SpringCloud进行
+	微服务架构开发了一个在线视频教育系统，对微服务有了比较深刻的了解。个人平时午休有一个习惯，喜欢利用这个时间看一些技术类相关的书或者业务知识相关的书。
+	平时也热爱运动，办了健身卡，会去跑步，游泳。
+结语：
+每个阶段我都有个小目标   现阶段的小目标是拿到贵公司的offer  
+
+
+
+
+Good afternoon, dear interviewer
+
+  my name is linzhiyu ,From Zhangzhou, Fujian, After graduation, I worked in 安硕信息，
+  I have one year of development experience，Participate in two supply chain related projects of the company，Can quickly adapt to
+  the environment and complete the development efficiently。Over the past year,Both technical and business knowledge are improved rapidly，
+  Self study relevant mainstream technologies in spare time after work。
+I have developed an online video system related to technology，
+I have a deep understanding of microservices
+I usually have a habit during lunch break. I like to use this time to read some books related to technology or business knowledge
+Usually also love sports, do a fitness card, will go running and swimming.
+Thank you for listening
+
