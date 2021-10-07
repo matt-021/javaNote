@@ -1,1 +1,0 @@
-start F:\mysql\sqlyog\SQLyog_Enterprise\SQLyogEnt.exe
